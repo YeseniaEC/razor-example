@@ -1,4 +1,4 @@
-# razor-example
+# Razor Example
 Mooovies Library 🐄 
 
 #### Simple web app with CRUD capabilities using .NetCore and Razor Pages 
@@ -6,4 +6,4 @@ Mooovies Library 🐄
 - DB storage
 - Search field
 
-🙂
+      🙂
